@@ -4,12 +4,12 @@
 This program is a garage managment system that was created in c# using the .NET framework. 
 <p></p>
 With this program you can:
-1. add a new vehicle (electric bike/car or fuel bike/car/truck)
-2.display license plates of vehicles in the garage. You can wither choose to display all license plates, or show only those with a spesific statuc (paid/in repair/repaired).
-3. change a vehicle's status
-4. fill a vehicle's air pressure to the max
-5.fuel vehicle 
-6. charge vehicle
-7. view full details of all vehicles in the garage
+<p>1. add a new vehicle (electric bike/car or fuel bike/car/truck)</p>
+<p>2.display license plates of vehicles in the garage. You can wither choose to display all license plates, or show only those with a spesific statuc (paid/in repair/repaired).</p>
+<p>3. change a vehicle's status</p>
+<p>4. fill a vehicle's air pressure to the max</p>
+<p>5.fuel vehicle </p>
+<p>6. charge vehicle</p>
+<p>7. view full details of all vehicles in the garage</p>
 
-a UML of all classes is added ad a png to this project.
+a UML of all classes is added as a png to this project.
